@@ -13,3 +13,4 @@
 * 12:00 Fill out MVP form
 * 12:30 Researching puppeteer - https://www.npmjs.com/package/puppeteer
 * 1:30 Continued Web scraping research https://www.youtube.com/watch?v=lgyszZhAZOI
+* 2:30 basic web scraping practice
