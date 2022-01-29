@@ -11,3 +11,4 @@
 
 #### Saturday, 01/29
 * 12:00 Fill out MVP form
+* 12:30 Researching puppeteer - https://www.npmjs.com/package/puppeteer
