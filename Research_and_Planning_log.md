@@ -14,3 +14,8 @@
 * 12:30 Researching puppeteer - https://www.npmjs.com/package/puppeteer
 * 1:30 Continued Web scraping research https://www.youtube.com/watch?v=lgyszZhAZOI
 * 2:30 basic web scraping practice
+
+#### Saturday, 2/12
+* 1:00 - 3:00pm Watch nosql vs sql videos for options for my database 
+* https://www.youtube.com/watch?v=ruz-vK8IesE, https://www.youtube.com/watch?v=t0GlGbtMTio,
+https://www.youtube.com/watch?v=YPsftzOURLw
