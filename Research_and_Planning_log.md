@@ -22,3 +22,4 @@ https://www.youtube.com/watch?v=YPsftzOURLw
 
 #### Monday, 2/14
 * 12:00-1:00pm: practice with nosql and sql databases
+* 1:00-2:00pm: researching stock and crypto trading bots with node and firebase for a possible switch
