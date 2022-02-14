@@ -19,3 +19,6 @@
 * 1:00 - 3:00pm Watch nosql vs sql videos for options for my database 
 * https://www.youtube.com/watch?v=ruz-vK8IesE, https://www.youtube.com/watch?v=t0GlGbtMTio,
 https://www.youtube.com/watch?v=YPsftzOURLw
+
+#### Monday, 2/14
+* 12:00-1:00pm: practice with nosql and sql databases
